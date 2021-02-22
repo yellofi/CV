@@ -1,5 +1,2 @@
-![CV_1](./images/1.png)
-![CV_2](./images/2.png)
-![CV_3](./images/3.png)
-![CV_4](./images/4.png)
-![CV_5](./images/5.png)
+![CV_1](./images/CV_Yunseob_Hwang_v2-page-001.jpg)
+![CV_2](./images/CV_Yunseob_Hwang_v2-page-002.jpg)
